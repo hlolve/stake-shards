@@ -21,7 +21,7 @@ So, the security is driven by a opportunity cost of lost rewards, but for IDs on
 ### Rationale
 
 For IDs with moderate to high stake is important to keep high score in short session and they take care to produce their flips.
-The proposal consist in always at least have 2 shards, where half of top stakres belongs to one shard and the rest in other shard.
+The proposal consist in always at least have 2 shards, where half of top stakers belongs to one shard and the rest in other shard.
 It could give a better ceremony experience to the top stake accounts, and incentive the IDs in the "low" shard to stake more and go to top shard.
 
 
